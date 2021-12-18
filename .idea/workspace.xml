@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4179ee45-a086-4e15-9103-25405aabc593" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SSO_1/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/SSO_1/templates/login.html" afterDir="false" />
-    </list>
+    <list default="true" id="4179ee45-a086-4e15-9103-25405aabc593" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSO_1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,6 +33,7 @@
       <updated>1639754191650</updated>
       <workItem from="1639754194928" duration="594000" />
       <workItem from="1639792780936" duration="41000" />
+      <workItem from="1639792993149" duration="1168000" />
     </task>
     <servers />
   </component>
