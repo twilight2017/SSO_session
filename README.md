@@ -6,6 +6,8 @@ python -m venv venv</br>
 python install -r requirements.txt
 ## 激活虚拟环境
 venv\scripts\activate
+## 开启redis服务
+在windows命令行输入：redis-server.exe redis.windows.conf
 ## 在不同端口运行程序</br>
 python manage.py runserver:3000</br>
 python manage.py runserver:8000</br>
